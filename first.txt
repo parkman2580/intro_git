@@ -2,3 +2,4 @@ gitの練習をしていきます
 基本的な動作を学んでいきます
 Git add
 Git commit
+git status
